@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "com.javatechig.recyclerview"
         minSdkVersion 20
-        targetSdkVersion 20
+        targetSdkVersion 21
         versionCode 1
         versionName "1.0"
     }
